@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Welcome is a slick Probot app to help onboard new teammates.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Welcome sends a welcome message to the new team member with all the necessary information for a successful start.
 
 ## Getting started
 
