@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+"Hi there! Welcome to our team, mate, and please check the instructions below for a smooth start."
